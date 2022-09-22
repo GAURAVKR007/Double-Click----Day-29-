@@ -50,3 +50,15 @@ small {
         opacity: 0;
     }
 }
+
+@media (max-width: 500px){
+    .loveMe {
+        background-size: 450px;
+    }
+}
+
+@media (max-width: 410px){
+    .loveMe {
+        background-size: 370px;
+    }
+}
